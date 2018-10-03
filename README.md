@@ -6,4 +6,6 @@ List of topics
 * Loops and conditionals
 * Functions
 * Intro pandas/numpy
-* Reading files/importing data
+  * Reading writing csv
+  * Missing data
+  * operations
