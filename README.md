@@ -3,6 +3,6 @@ python 3 datascience workshop material. Workshop organised by bcbgso at iowastat
 
 List of topics
 
-Loops and conditionals
-Functions
-Reading files
+* Loops and conditionals
+* Functions
+* Reading files
