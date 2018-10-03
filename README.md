@@ -5,4 +5,5 @@ List of topics
 
 * Loops and conditionals
 * Functions
-* Reading files
+* Intro pandas/numpy
+* Reading files/importing data
