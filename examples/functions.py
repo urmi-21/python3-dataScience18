@@ -29,3 +29,12 @@ printWelcome()
 user=getName()
 printMessage(user)
 printGoodbye()
+
+##usage of lamda function
+def mult(n):
+    return lambda x: x*n
+
+double=mult(2)
+double(3)
+triple=mult(4)
+triple(4)

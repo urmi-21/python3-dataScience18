@@ -49,11 +49,3 @@ the ORF has the codons are ATG AGC TTT CAT CAT i.e. three letters taken at a tim
 '''
 dnaSeq='AAATTTATGAGCTTTCATCATTAGGGTTTG'
 #4. Given a DNA sequence can you find the ORF using the above defination.
-flag=False
-for i in range(0,len(dnaSeq)-3,3):
-    t=dnaSeq[i:i+3]
-    if t == "TAG" or t=="TGA":
-        break
-    if t == "ATG" or flag == True:
-        flag=True
-        print (geneticCode[t.replace('T','U')])

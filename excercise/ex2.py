@@ -7,6 +7,7 @@ Exercise 4
 
 #1. We know len() returns the length of a string. Define a function that takes a string as an argument
 # and prints its squared length. E.g. if input to function is 'ABCD' return value should be 16.
+# use def and lambda functions
 
 
 #2. Write another function that takes two strings as arguments and returns the sum of square of lengths of the two Strings.
