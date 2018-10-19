@@ -38,3 +38,4 @@ double=mult(2)
 double(3)
 triple=mult(4)
 triple(4)
+
