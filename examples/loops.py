@@ -59,7 +59,3 @@ while i< len(primes):
     print (primes[i])
     i=i+1
     
-    
-
-
-
